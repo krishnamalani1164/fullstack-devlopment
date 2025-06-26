@@ -64,27 +64,22 @@ Before running any projects in this repository, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/angela-yu-web-development.git
-   cd angela-yu-web-development
+   git clone https://github.com/krishna1164/fullstack-devlopment.git
+   cd fullstack-devlopment
    ```
 
-2. **Navigate to specific project folder**
-   ```bash
-   cd Full-Stack-Projects/project-name
-   ```
-
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-4. **Set up environment variables**
+3. **Set up environment variables**
    ```bash
    # Create .env file and add your API keys
    cp .env.example .env
    ```
 
-5. **Run the application**
+4. **Run the application**
    ```bash
    npm start
    ```
